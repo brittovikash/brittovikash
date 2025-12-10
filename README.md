@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Britto Vikash<br><br>### Cybersecurity Student | Learning Pentesting & Forensics<br><br>I’m building hands-on projects to improve my skills in:<br>- Network traffic analysis<br>- Log investigation & threat detection<br>- Python automation for security tasks<br>- Basic forensics & packet inspection<br><br>### 🔥 Current Projects<br>- **Packet Analyzer** (Wireshark + Python)<br>- **Password Spray Detection System**<br><br>### 📌 Tools & Skills<br>- Python, Bash, Git<br>- Wireshark, tshark, Scapy<br>- Linux (Kali), Windows<br>- Basic malware analysis & OSINT fundamentals<br><br>### 🎯 What I’m Working Toward<br>Becoming a Security Analyst / Junior Pentester with strong fundamentals.<br><br>
+💫 About Me:
+👋 Hi, I'm Britto Vikash<br><br>Cybersecurity Student | Learning Pentesting & Forensics<br><br>I’m building hands-on projects to improve my skills in:<br>- Network traffic analysis<br>- Log investigation & threat detection<br>- Python automation for security tasks<br>- Basic forensics & packet inspection<br><br>🔥 Current Projects<br>- **Packet Analyzer** (Wireshark + Python)<br>- **Password Spray Detection System**<br><br>📌 Tools & Skills<br>- Python, Bash, Git<br>- Wireshark, tshark, Scapy<br>- Linux (Kali), Windows<br>- Basic malware analysis & OSINT fundamentals<br><br>🎯 What I’m Working Toward<br>Becoming a Security Analyst / Junior Pentester with strong fundamentals.<br><br>
 
 
 ## 🌐 Socials:
